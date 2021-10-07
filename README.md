@@ -1,3 +1,3 @@
-- English to French Translator
+- English/French Translator
 - Python Flask Web App 
 - IBM Watson Translator API
